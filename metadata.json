@@ -1,0 +1,6 @@
+{
+  "name": "RNSIT KIOSK",
+  "description": "Interactive front desk kiosk and admin prototype featuring modern glassmorphism, responsive states, and navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
