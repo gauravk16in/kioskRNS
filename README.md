@@ -1,4 +1,7 @@
-Live Demo of KIOSK-
+![Kiosk Live Demo](https://s8.ezgif.com/tmp/ezgif-81c14e28ad717027.gif)
+
+
+
 
 
 # RNSIT Digital Receptionist (Kiosk)
@@ -31,6 +34,7 @@ frontdesk-ai-design/
 ```
 
 ---
+
 
 ## Prerequisites
 1. **Node.js** (v18+)
