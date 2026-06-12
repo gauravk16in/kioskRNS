@@ -1,3 +1,9 @@
+Live Demo of KIOSK-
+
+
+[!https://s8.ezgif.com/tmp/ezgif-81c14e28ad717027.gif]
+
+
 # RNSIT Digital Receptionist (Kiosk)
 
 A fully integrated AI Receptionist for RNS Institute of Technology. The system features a modern React/Vite frontend (glassmorphism UI), a FastAPI Python backend, face recognition via webcam, and local LLM-powered RAG (using Ollama) for answering campus-related questions.
