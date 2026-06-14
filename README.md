@@ -1,4 +1,4 @@
-![Kiosk Live Demo](https://s8.ezgif.com/tmp/ezgif-81c14e28ad717027.gif)
+![Kiosk Live Demo](ScreenRecording2026-06-13at3.03.22AM-ezgif.com-optimize.gif)
 
 
 
